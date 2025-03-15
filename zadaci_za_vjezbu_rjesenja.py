@@ -15,9 +15,6 @@ print('Potrošnja goriva u litrama na 100km : {:.1f}'.format(potrosnja_goriva_na
 
 
 
-
-
-
 ## Zadatak 2: Pretvarač vremena
 '''
 Napišite program koji traži od korisnika da unese vrijeme u sekundama. 
@@ -33,7 +30,6 @@ sekunde = preostale_sekunde % 60
 print('{}:{:02d}:{:02d}'.format(sati, minute, sekunde))
 
 #Ovdje je korišten 2d, a ne float da se ne prikazuju decimale u sekundama na primjer, ali da se vide prva dva cijela broja što nam i treba
-
 
 
 
