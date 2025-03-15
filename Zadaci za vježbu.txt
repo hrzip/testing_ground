@@ -21,3 +21,55 @@ Napišite program koji traži od korisnika da unese svoju težinu u kilogramima 
 '''
 Napišite program koji traži od korisnika da unese mjesečni iznos koji planira štedjeti, godišnju kamatnu stopu i broj godina štednje. Program treba izračunati i ispisati ukupni ušteđeni iznos nakon zadanog razdoblja, uzimajući u obzir složenu kamatu koja se obračunava mjesečno.
 '''
+
+
+
+## Zadatak 5: Izračun ostatka pri dijeljenju
+
+'''
+Napišite program koji traži od korisnika da unese dva cijela broja. Program treba izračunati i ispisati ostatak pri dijeljenju prvog broja drugim brojem.
+'''
+
+## Zadatak 6: Izračun prosječne brzine
+
+'''
+Napišite program koji traži od korisnika da unese prijeđenu udaljenost u kilometrima i vrijeme putovanja u minutama. Program treba izračunati i ispisati prosječnu brzinu u kilometrima na sat.
+'''
+
+## Zadatak 7: Kalkulator napojnice
+
+'''
+Napišite program koji traži od korisnika da unese iznos računa u restoranu i postotak napojnice koji želi ostaviti. Program treba izračunati i ispisati iznos napojnice i ukupni iznos za platiti.
+'''
+
+## Zadatak 8: Pretvarač duljine
+
+'''
+Napišite program koji traži od korisnika da unese duljinu u centimetrima. Program treba pretvoriti tu duljinu u metre i centimetre te ispisati rezultat u formatu "x m y cm".
+'''
+
+## Zadatak 9: Izračun potrošnje električne energije
+
+'''
+Napišite program koji traži od korisnika da unese potrošnju električne energije u kilovatima (kW) i cijenu po kilovatu. Program treba izračunati i ispisati ukupni trošak električne energije.
+'''
+
+## Zadatak 10: Kalkulator godina
+
+'''
+Napišite program koji traži od korisnika da unese svoju trenutnu dob i broj godina koji želi dodati. Program treba izračunati i ispisati koliko će godina korisnik imati nakon tog vremena.
+'''
+
+## Zadatak 11: Izračun površine kruga
+
+'''
+Napišite program koji traži od korisnika da unese polumjer kruga. Program treba izračunati i ispisati površinu kruga koristeći formulu: površina = π × r². Koristite π = 3.14.
+'''
+
+## Zadatak 12: Pretvarač minuta u sate i minute
+
+'''
+Napišite program koji traži od korisnika da unese vrijeme u minutama. Program treba pretvoriti to vrijeme u sate i minute te ispisati rezultat u formatu "x h y min".
+'''
+
+Ovi zadaci koriste samo osnovne matematičke operacije i jednostavne formule, prikladni su za početnike u programiranju.
