@@ -73,6 +73,13 @@ iznos_racuna = float(input("Unesite iznos računa: "))
 postotak_napojnice = float(input("Unesite postotak napojnice (npr. 10 za 10%): "))
 # Dovršite kod...
 
+#Rješenje
+iznos_napojnice = iznos_racuna * (postotak_napojnice / 100)
+iznos_racuna_sa_napojnicom = iznos_racuna + iznos_napojnice
+
+
+print('Iznos napojnice: {:.2f} kn'.format(iznos_napojnice))
+print('Ukupni iznos za platiti {:.2f}'.format(iznos_racuna_sa_napojnicom))
 
 
 
@@ -87,6 +94,19 @@ oba formatirana na dvije decimale.
 # Početak koda
 iznos_eur = float(input("Unesite iznos u eurima: "))
 # Dovršite kod...
+
+
+#Rješenje
+
+tecaj_eur_hrk = 7.53450
+tecaj_eur_usd = 1.09
+
+iznos_hrk = iznos_eur * tecaj_eur_hrk
+iznos_usd = iznos_eur * tecaj_eur_usd
+
+print("{:.2f} EUR = {:.2f} HRK".format(iznos_eur, iznos_hrk))
+print("{:.2f} EUR = {:.2f} USD".format(iznos_eur, iznos_usd))
+
 
 
 
@@ -105,3 +125,16 @@ godine_otplate = int(input("Unesite broj godina otplate: "))
 # Dovršite kod...
 # Formula za mjesečnu ratu: 
 # rata = (iznos_kredita * mjesecna_kamata) / (1 - (1 + mjesecna_kamata)**(-ukupni_broj_mjeseci))
+
+
+# RJEŠENJE
+iznos_kredita = float(input("Unesite iznos kredita: "))
+godisnja_kamata = float(input("Unesite godišnju kamatnu stopu (npr. 5 za 5%): "))
+godine_otplate = int(input("Unesite broj godina otplate: "))
+
+mjesecna_kamata = godisnja_kamata / 12 / 100
+ukupni_broj_mjeseci = godine_otplate * 12
+
+mjesecna_rata = (iznos_kredita * mjesecna_kamata) / (1 - (1 + mjesecna_kamata)**(-ukupni_broj_mjeseci))
+
+print("Mjesečna rata kredita: {:.2f}".format(mjesecna_rata))
