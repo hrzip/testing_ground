@@ -72,4 +72,182 @@ Napišite program koji traži od korisnika da unese polumjer kruga. Program treb
 Napišite program koji traži od korisnika da unese vrijeme u minutama. Program treba pretvoriti to vrijeme u sate i minute te ispisati rezultat u formatu "x h y min".
 '''
 
-Ovi zadaci koriste samo osnovne matematičke operacije i jednostavne formule, prikladni su za početnike u programiranju.
+## Zadatak 13: Izračun opsega kruga
+
+'''
+Napišite program koji traži od korisnika da unese polumjer kruga. Program treba izračunati i ispisati opseg kruga koristeći formulu: opseg = 2 × π × r. Koristite π = 3.14.
+'''
+
+## Zadatak 14: Pretvarač temperature (Fahrenheit u Celzijus)
+
+'''
+Napišite program koji traži od korisnika da unese temperaturu u Fahrenheitima. Program treba pretvoriti temperaturu u Celzijuse koristeći formulu: C = (F - 32) × 5/9. Ispišite rezultat formatiran na jednu decimalu.
+'''
+
+## Zadatak 15: Izračun potrošnje goriva (milje po galonu)
+
+'''
+Napišite program koji traži od korisnika da unese prijeđene kilometre i potrošeno gorivo u litrama. Program treba izračunati i ispisati potrošnju goriva u miljama po galonu (MPG). Koristite formulu: MPG = (kilometri / 1.60934) / (litre / 3.78541).
+'''
+
+## Zadatak 16: Kalkulator napojnice s dijeljenjem
+
+'''
+Napišite program koji traži od korisnika da unese ukupni iznos računa, postotak napojnice i broj osoba koje dijele račun. Program treba izračunati i ispisati iznos koji svaka osoba treba platiti.
+'''
+
+## Zadatak 17: Izračun broja dana između datuma
+
+'''
+Napišite program koji traži od korisnika da unese dva datuma u formatu broj dana (1-365). Program treba izračunati i ispisati broj dana između ta dva datuma u istoj godini.
+'''
+
+## Zadatak 18: Pretvarač vremena (sati u tjedne, dane i sate)
+
+'''
+Napišite program koji traži od korisnika da unese broj sati. Program treba pretvoriti to vrijeme u tjedne, dane i sate te ispisati rezultat u formatu "x tjedana, y dana, z sati".
+'''
+
+## Zadatak 19: Kalkulator bodova na ispitu
+
+'''
+Napišite program koji traži od korisnika da unese broj točnih odgovora i ukupan broj pitanja na ispitu. Program treba izračunati i ispisati postotak točnih odgovora i ocjenu (A: 90-100%, B: 80-89%, C: 70-79%, D: 60-69%, F: <60%).
+'''
+
+## Zadatak 20: Izračun cijene po jedinici
+
+'''
+Napišite program koji traži od korisnika da unese cijenu proizvoda i količinu (npr. težinu u gramima ili volumen u mililitrima). Program treba izračunati i ispisati cijenu po jedinici (npr. cijena po kilogramu ili litri).
+'''
+
+## Zadatak 21: Kalkulator kalorija
+
+'''
+Napišite program koji traži od korisnika da unese broj minuta provedenih u različitim aktivnostima (hodanje, trčanje, plivanje). Program treba izračunati i ispisati ukupan broj potrošenih kalorija ako hodanje troši 4 kalorije po minuti, trčanje 10 kalorija po minuti, a plivanje 8 kalorija po minuti.
+'''
+
+## Zadatak 22: Pretvarač valuta (više valuta)
+
+'''
+Napišite program koji traži od korisnika da unese iznos u eurima i odabere valutu za pretvorbu (1 za USD, 2 za GBP, 3 za JPY). Program treba pretvoriti iznos u odabranu valutu koristeći fiksne tečajeve (1 EUR = 1.1 USD, 1 EUR = 0.85 GBP, 1 EUR = 160 JPY).
+'''
+
+## Zadatak 23: Izračun površine trokuta
+
+'''
+Napišite program koji traži od korisnika da unese duljine tri stranice trokuta. Program treba izračunati i ispisati površinu trokuta koristeći Heronovu formulu: površina = √(s × (s - a) × (s - b) × (s - c)), gdje je s = (a + b + c) / 2.
+'''
+
+## Zadatak 24: Kalkulator uštede energije
+
+'''
+Napišite program koji traži od korisnika da unese potrošnju električne energije prije i nakon uvođenja mjera štednje. Program treba izračunati i ispisati postotak uštede i godišnju uštedu u novcu ako je cijena električne energije 0.15 EUR po kWh.
+'''
+
+## Zadatak 25: Pretvarač brojeva (dekadski u binarni)
+
+'''
+Napišite program koji traži od korisnika da unese cijeli broj (0-15). Program treba pretvoriti taj broj iz dekadskog u binarni sustav i ispisati rezultat.
+'''
+
+## Zadatak 26: Izračun indeksa kvalitete zraka
+
+'''
+Napišite program koji traži od korisnika da unese koncentraciju PM2.5 čestica u zraku (μg/m³). Program treba odrediti i ispisati kategoriju kvalitete zraka: Dobra (0-12), Umjerena (12.1-35.4), Nezdrava za osjetljive skupine (35.5-55.4), Nezdrava (55.5-150.4), Vrlo nezdrava (150.5-250.4), Opasna (>250.5).
+'''
+
+## Zadatak 27: Kalkulator otplate kredita
+
+'''
+Napišite program koji traži od korisnika da unese iznos kredita, godišnju kamatnu stopu i rok otplate u godinama. Program treba izračunati i ispisati mjesečnu ratu kredita koristeći formulu: rata = (iznos × (kamatna_stopa/12)) / (1 - (1 + kamatna_stopa/12)^(-mjeseci)).
+'''
+
+## Zadatak 28: Pretvarač mjernih jedinica za težinu
+
+'''
+Napišite program koji traži od korisnika da unese težinu u kilogramima. Program treba pretvoriti tu težinu u funte, unce i stone te ispisati rezultate.
+'''
+
+## Zadatak 29: Izračun potrošnje vode
+
+'''
+Napišite program koji traži od korisnika da unese broj članova kućanstva i prosječno vrijeme tuširanja u minutama. Program treba izračunati i ispisati mjesečnu potrošnju vode za tuširanje u litrama, ako tuš troši 10 litara vode po minuti.
+'''
+
+## Zadatak 30: Kalkulator brzine interneta
+
+'''
+Napišite program koji traži od korisnika da unese veličinu datoteke u megabajtima (MB) i brzinu interneta u megabitima po sekundi (Mbps). Program treba izračunati i ispisati vrijeme potrebno za preuzimanje datoteke u minutama i sekundama.
+'''
+
+## Zadatak 31: Pretvarač rimskih brojeva
+
+'''
+Napišite program koji traži od korisnika da unese broj od 1 do 10. Program treba pretvoriti taj broj u rimski broj i ispisati rezultat.
+'''
+
+## Zadatak 32: Izračun potrošnje goriva za putovanje
+
+'''
+Napišite program koji traži od korisnika da unese udaljenost putovanja u kilometrima, potrošnju goriva automobila (litara na 100 km) i cijenu goriva po litri. Program treba izračunati i ispisati ukupni trošak goriva za putovanje u jednom smjeru i za povratno putovanje.
+'''
+
+## Zadatak 33: Kalkulator indeksa UV zračenja
+
+'''
+Napišite program koji traži od korisnika da unese vrijednost UV indeksa. Program treba odrediti i ispisati kategoriju rizika: Nizak (0-2), Umjeren (3-5), Visok (6-7), Vrlo visok (8-10), Ekstreman (11+).
+'''
+
+## Zadatak 34: Pretvarač vremena (dani u godine, mjesece i dane)
+
+'''
+Napišite program koji traži od korisnika da unese broj dana. Program treba pretvoriti te dane u godine, mjesece i dane, pretpostavljajući da godina ima 365 dana, a mjesec 30 dana.
+'''
+
+## Zadatak 35: Izračun potrošnje baterije
+
+'''
+Napišite program koji traži od korisnika da unese kapacitet baterije u mAh i potrošnju uređaja u mA. Program treba izračunati i ispisati koliko će sati baterija trajati.
+'''
+
+## Zadatak 36: Kalkulator brzine čitanja
+
+'''
+Napišite program koji traži od korisnika da unese broj pročitanih stranica i vrijeme čitanja u minutama. Program treba izračunati i ispisati prosječnu brzinu čitanja u stranicama po satu i procijenjeno vrijeme potrebno za čitanje knjige od 300 stranica.
+'''
+
+## Zadatak 37: Pretvarač brojeva (dekadski u heksadekadski)
+
+'''
+Napišite program koji traži od korisnika da unese cijeli broj (0-255). Program treba pretvoriti taj broj iz dekadskog u heksadekadski sustav i ispisati rezultat.
+'''
+
+## Zadatak 38: Izračun potrošnje vode za zalijevanje
+
+'''
+Napišite program koji traži od korisnika da unese površinu vrta u kvadratnim metrima i količinu padalina u milimetrima. Program treba izračunati i ispisati koliko litara vode treba dodati za zalijevanje ako je optimalna količina vode 5 litara po kvadratnom metru tjedno.
+'''
+
+## Zadatak 39: Kalkulator brzine kucanja
+
+'''
+Napišite program koji traži od korisnika da unese broj napisanih riječi i vrijeme pisanja u minutama. Program treba izračunati i ispisati brzinu kucanja u riječima po minuti (WPM).
+'''
+
+## Zadatak 40: Pretvarač temperature (Kelvin u Celzijus)
+
+'''
+Napišite program koji traži od korisnika da unese temperaturu u Kelvinima. Program treba pretvoriti temperaturu u Celzijuse koristeći formulu: C = K - 273.15. Ispišite rezultat formatiran na jednu decimalu.
+'''
+
+## Zadatak 41: Izračun potrošnje hrane za kućne ljubimce
+
+'''
+Napišite program koji traži od korisnika da unese težinu kućnog ljubimca u kilogramima i dnevnu preporučenu količinu hrane u gramima po kilogramu težine. Program treba izračunati i ispisati mjesečnu potrošnju hrane u kilogramima i mjesečni trošak ako kilogram hrane košta 5 eura.
+'''
+
+## Zadatak 42: Kalkulator brzine metabolizma
+
+'''
+Napišite program koji traži od korisnika da unese težinu u kilogramima, visinu u centimetrima, dob u godinama i spol (M/Ž). Program treba izračunati i ispisati bazalni metabolizam (BMR) koristeći Harris-Benedict formulu: BMR(muškarci) = 88.362 + (13.397 × težina) + (4.799 × visina) - (5.677 × dob), BMR(žene) = 447.593 + (9.247 × težina) + (3.098 × visina) - (4.330 × dob).
+'''
