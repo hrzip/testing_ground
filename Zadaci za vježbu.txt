@@ -1,61 +1,62 @@
+'''
 Jednostavni zadaci za vježbu u Pythonu
 
 ## Zadatak 1: Kalkulator potrošnje goriva
 
 Napišite program koji traži od korisnika da unese prijeđene kilometre i potrošeno gorivo u litrama. Program treba izračunati i ispisati potrošnju goriva u litrama na 100 km, formatiranu na jednu decimalu.
+'''
 
 
-
+'''
 ## Zadatak 2: Pretvarač vremena
 
 Napišite program koji traži od korisnika da unese vrijeme u sekundama. Program treba pretvoriti to vrijeme u sate, minute i sekunde te ispisati rezultat u formatu "h:mm:ss".
+'''
 
-
-
+'''
 ## Zadatak 3: Izračun indeksa tjelesne mase (BMI)
 
 Napišite program koji traži od korisnika da unese svoju težinu u kilogramima i visinu u metrima. Program treba izračunati indeks tjelesne mase (BMI = težina / visina²) i ispisati rezultat formatiran na jednu decimalu, zajedno s kategorizacijom (pothranjenost < 18.5, normalna težina 18.5-24.9, prekomjerna težina 25-29.9, pretilost ≥ 30).
+'''
 
-
-
+'''
 ## Zadatak 4: Kalkulator uštede
 
 Napišite program koji traži od korisnika da unese mjesečni iznos koji planira štedjeti, godišnju kamatnu stopu i broj godina štednje. Program treba izračunati i ispisati ukupni ušteđeni iznos nakon zadanog razdoblja, uzimajući u obzir složenu kamatu koja se obračunava mjesečno.
+'''
 
-
-
+'''
 ## Zadatak 5: Pretvarač temperatura
 
 Napišite program koji traži od korisnika da unese temperaturu i oznaku mjerne jedinice ('C' za Celzijus, 'F' za Fahrenheit, 'K' za Kelvin). Program treba pretvoriti unesenu temperaturu u preostale dvije mjerne jedinice i ispisati rezultate formatirane na jednu decimalu.
+'''
 
-
-
+'''
 ## Zadatak 6: Izračun cijene bojanja zidova
 
 Napišite program koji traži od korisnika da unese dimenzije prostorije (duljinu, širinu i visinu u metrima), broj vrata (standardne veličine 2m × 0.8m) i prozora (standardne veličine 1.5m × 1m). Program treba izračunati površinu zidova koju treba obojati (bez površine vrata i prozora) i ukupnu cijenu bojanja ako je cijena 25 kn po kvadratnom metru.
+'''
 
-
-
+'''
 ## Zadatak 7: Kalkulator napojnice s podjelom
 
 Napišite program koji traži od korisnika da unese ukupni iznos računa u restoranu, postotak napojnice i broj osoba koje dijele račun. Program treba izračunati i ispisati ukupni iznos s napojnicom i iznos koji svaka osoba treba platiti, oba formatirana na dvije decimale.
+'''
 
-
-
+'''
 ## Zadatak 8: Pretvarač valuta s tečajnom listom
 
 Napišite program koji sadrži tečajnu listu za nekoliko valuta (npr. EUR, USD, GBP, CHF) prema HRK. Program treba tražiti od korisnika da unese iznos, izvornu valutu i ciljnu valutu, a zatim ispisati preračunati iznos formatiran na dvije decimale.
+'''
 
-
-
+'''
 ## Zadatak 9: Izračun potrošnje električne energije
 
 Napišite program koji traži od korisnika da unese stanje brojila prošlog mjeseca i stanje brojila ovog mjeseca (u kWh), te cijenu električne energije po kWh. Program treba izračunati i ispisati potrošnju električne energije u kWh i ukupni iznos računa, formatiran na dvije decimale.
+'''
 
-
-
+'''
 ## Zadatak 10: Kalkulator otplate kredita
 
 Napišite program koji traži od korisnika da unese iznos kredita, godišnju kamatnu stopu, broj godina otplate i datum prve rate (dan i mjesec). Program treba izračunati mjesečnu ratu i ispisati plan otplate za prvih 6 mjeseci, uključujući datum rate, iznos rate, iznos kamate, iznos glavnice i preostali iznos kredita, sve formatirano na dvije decimale.
-
-Ovi zadaci će vam pomoći u vježbanju osnovnih matematičkih operacija i formatiranja u Pythonu. Ako trebate pomoć s bilo kojim zadatkom ili želite dodatne zadatke, slobodno pitajte!
+'''
