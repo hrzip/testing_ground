@@ -1,24 +1,3 @@
-'''
-## Zadatak 4: Kalkulator uštede
-
-Napišite program koji traži od korisnika da unese mjesečni iznos koji planira štedjeti, godišnju kamatnu stopu i broj godina štednje. 
-Program treba izračunati i ispisati ukupni ušteđeni iznos nakon zadanog razdoblja, uzimajući u obzir složenu kamatu koja se obračunava mjesečno.
-'''
-
-mjesecni_iznos = float(input('Mjesečni iznos : '))
-kamata = float(input('Godišnja kamatna stopa : '))
-broj_godina = int(input('Broj godina : '))
-
-mjesecna_kamatna_stopa = kamata / 100 * 12
-
-ukupni_iznos = print('Ukupni ušteđeni iznos : ', mjesecni_iznos * kamata / broj_godina)
-
-
-
-
-
-
-
 ## Zadatak 1: Kalkulator potrošnje goriva
 
 '''Napišite program koji traži od korisnika da unese prijeđene kilometre i potrošeno gorivo u litrama. 
